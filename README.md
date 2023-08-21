@@ -2,4 +2,6 @@
 
 ### Deploying the Lottery contract 
 
+It is almost imposiible to write a smart contract without making a mistake <br>
+
 
