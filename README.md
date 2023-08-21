@@ -17,7 +17,7 @@ We can see in the constructor we are interacting with contract vrfCoordinatorV2 
 
 As in the parameter vrfCoordinatorV2 is the address of the contract <br>
 
-we need some mock for this <br>
+we probably  need some mock for this <br>
 
 
 
