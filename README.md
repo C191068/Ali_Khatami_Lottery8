@@ -19,6 +19,9 @@ As in the parameter vrfCoordinatorV2 is the address of the contract <br>
 
 we probably  need to deploy  some mock for this <br>
 
+Since it is the contract that we want to interact which is outside of our project <br>
+
+
 
 
 
