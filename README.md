@@ -8,3 +8,10 @@ It is almost imposiible to write a smart contract without making a mistake <br>
 
 here we create a new folder <br>
 
+![d2](https://github.com/C191068/Ali_Khatami_Lottery8/assets/89090776/1c0090be-5d42-43a6-b8b6-3c47ce668e12)
+
+at our code at here https://github.com/C191068/Ali_Khatami_Lottery7.git <br>
+at constructor we see a ton of parameter <br>
+
+
+
