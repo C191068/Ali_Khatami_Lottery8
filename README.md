@@ -13,5 +13,6 @@ here we create a new folder <br>
 at our code at here https://github.com/C191068/Ali_Khatami_Lottery7.git <br>
 at constructor we see a ton of parameter <br>
 
+We can see in the constructor we are interacting with contract 
 
 
