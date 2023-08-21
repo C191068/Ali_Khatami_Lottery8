@@ -21,6 +21,10 @@ we probably  need to deploy  some mock for this <br>
 
 Since it is the contract that we want to interact which is outside of our project <br>
 
+![d3](https://github.com/C191068/Ali_Khatami_Lottery8/assets/89090776/13c8dad0-8d06-4610-9a96-38dca4ab939c)
+
+here by opening this file we gonna deploy our lottery contract <br>
+
 
 
 
