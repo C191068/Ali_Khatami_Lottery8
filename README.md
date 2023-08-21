@@ -26,6 +26,19 @@ Since it is the contract that we want to interact which is outside of our projec
 here by opening this file we gonna deploy our lottery contract <br>
 
 
+```js
+
+module.exports = async function ({ getNamedAccounts, deployments }) {
+    const { deploy, log } = deployments
+    const { deployer } = await getNamedAccounts()
+}
+
+```
+
+
+
+
+
 
 
 
