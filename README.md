@@ -40,6 +40,32 @@ module.exports = async function ({ getNamedAccounts, deployments }) {
 We have updated hardhat.config.js in the above way <br>
 we have set deployer to 0 nad player to 1 <br>
 
+```js
+
+require("@nomiclabs/hardhat-waffle")
+require("@nomiclabs/hardhat-etherscan")
+require("hardhat-deploy")
+require("solidity-coverage")
+require("hardhat-gas-reporter")
+require("hardhat-contract-sizer")
+require("dotenv").config()
+
+/** @type import('hardhat/config').HardhatUserConfig */
+module.exports = {
+    solidity: "0.8.19",
+    namedAccounts: {
+        deployer: {
+            derfault: 0,
+        },
+        player: {
+            default: 1,
+        },
+    },
+}
+
+```
+
+
 
 
 
