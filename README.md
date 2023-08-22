@@ -69,6 +69,10 @@ module.exports = {
 For now we gonna grab our deployer and get started <br>
 
 
+![d6](https://github.com/C191068/Ali_Khatami_Lottery8/assets/89090776/aaeb25eb-bdf0-40b0-b75f-1f25c6b60afd)
+
+We have also made another changein the code <br>
+
 
 
 
