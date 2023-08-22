@@ -74,6 +74,10 @@ For now we gonna grab our deployer and get started <br>
 We have also made another changein the code <br>
 
 
+In our hardhat config we don't have a network <br>
+
+
+
 
 
 
