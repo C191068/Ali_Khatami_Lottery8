@@ -77,6 +77,8 @@ We have also made another changein the code <br>
 In our hardhat config we don't have a network <br>
 
 
+So we will add network here to get those block confirmation <br>
+
 
 
 
