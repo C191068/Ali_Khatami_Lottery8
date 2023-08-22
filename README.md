@@ -66,6 +66,11 @@ module.exports = {
 ```
 
 
+For now we gonna grab our deployer and get started <br>
+
+
+
+
 
 
 
