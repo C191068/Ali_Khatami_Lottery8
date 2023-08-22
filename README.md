@@ -35,6 +35,17 @@ module.exports = async function ({ getNamedAccounts, deployments }) {
 
 ```
 
+![d4](https://github.com/C191068/Ali_Khatami_Lottery8/assets/89090776/c326fb4d-8eab-4aa5-9b7f-58890237a2f1)
+
+We have updated hardhat.config.js in the above way <br>
+we have set deployer to 0 nad player to 1 <br>
+
+
+
+
+
+
+
 
 
 
